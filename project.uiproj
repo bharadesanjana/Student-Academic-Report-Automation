@@ -1,0 +1,6 @@
+{
+  "Name": "mini_project",
+  "ProjectType": "Process",
+  "Description": "student ia automation and email notification",
+  "MainFile": "Main.xaml"
+}
